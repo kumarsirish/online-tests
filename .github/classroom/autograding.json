@@ -1,0 +1,204 @@
+{
+  "tests": [
+    {
+      "name": "Question 1 Visible Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test_q1.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Question 1 Hidden Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest hidden_tests/hidden_test_q1.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Question 2 Visible Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test_q2.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Question 2 Hidden Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest hidden_tests/hidden_test_q2.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Question 3 Visible Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test_q3.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Question 3 Hidden Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest hidden_tests/hidden_test_q3.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Question 4 Visible Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test_q4.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Question 4 Hidden Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest hidden_tests/hidden_test_q4.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Question 5 Visible Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test_q5.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Question 5 Hidden Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest hidden_tests/hidden_test_q5.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Question 6 Visible Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test_q6.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Question 6 Hidden Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest hidden_tests/hidden_test_q6.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Question 7 Visible Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test_q7.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Question 7 Hidden Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest hidden_tests/hidden_test_q7.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Question 8 Visible Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test_q8.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Question 8 Hidden Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest hidden_tests/hidden_test_q8.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Question 9 Visible Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test_q9.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Question 9 Hidden Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest hidden_tests/hidden_test_q9.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    },
+    {
+      "name": "Question 10 Visible Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest tests/test_q10.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 4
+    },
+    {
+      "name": "Question 10 Hidden Tests",
+      "setup": "pip install -r requirements.txt",
+      "run": "pytest hidden_tests/hidden_test_q10.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 6
+    }
+  ]
+}
